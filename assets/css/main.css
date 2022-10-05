@@ -328,6 +328,7 @@ section {
 
 .header .logo img {
   max-height: 100px;
+  max-width: 100px;
   margin-right: 6px;
 }
 
